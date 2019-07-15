@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561643652 source:e:\dhuo creative\c++\p4e\main.cpp
+	<iostream>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561471574 source:e:\dhuo creative\c++\p3b\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+

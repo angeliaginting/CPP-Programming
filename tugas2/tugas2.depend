@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561964045 source:e:\dhuo creative\c++\tugas2\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+

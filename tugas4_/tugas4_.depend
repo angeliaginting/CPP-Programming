@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1562075226 source:e:\dhuo creative\c++\tugas4_\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<bits/stdc++.h>
+
